@@ -61,7 +61,7 @@ This project utilizes the following Python libraries:
 Key Takeaways:
 Logistic Regression Classifier performed the best with 89.57% accuracy.
 Random Forest Classifier showed a good performance with 85.49% accuracy.
-Deep Learning Model had an accuracy of ~85%, performing slightly worse than the traditional models.
+Deep Learning Model had an accuracy of 85%, performing slightly worse than the traditional models.
 
 ![image alt](https://github.com/MuhammadEmaaz/Employee-Attrition-Prediction-with-Machine-Learning/blob/main/results/1.%20Features%20Histogram.png?raw=true)
 
@@ -76,11 +76,7 @@ Roles like Sales Rep, Sales Executive, and Laboratory Technician exhibit higher 
 Employees with Job Involvement level 3 tend to leave more often, indicating potential disengagement.
 Employees with 1-2 years of experience at the company are more likely to resign, reflecting early-stage career movements.
 
-## Model Performance Comparison:
-Logistic Regression Classifier: 89.57% Accuracy (Best performer!)
-Random Forest Classifier: 85.49% Accuracy
-Deep Learning Model: ~85% Accuracy
-Proposed Next Steps:
+## Proposed Next Steps:
 Integrating this model into an HR Dashboard for real-time employee retention monitoring.
 Further refining the model by including additional features such as benefits, work environment factors, etc.
 
