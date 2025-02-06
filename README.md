@@ -63,6 +63,12 @@ Logistic Regression Classifier performed the best with 89.57% accuracy.
 Random Forest Classifier showed a good performance with 85.49% accuracy.
 Deep Learning Model had an accuracy of ~85%, performing slightly worse than the traditional models.
 
+![image alt](https://github.com/MuhammadEmaaz/Employee-Attrition-Prediction-with-Machine-Learning/blob/main/results/1.%20Features%20Histogram.png?raw=true)
+
+![image alt](https://github.com/MuhammadEmaaz/Employee-Attrition-Prediction-with-Machine-Learning/blob/main/results/3.%20Age%20vs%20Attrition.png?raw=true)
+
+![image alt](https://github.com/MuhammadEmaaz/Employee-Attrition-Prediction-with-Machine-Learning/blob/main/results/4.%20Multiple%20Features%20Analysis.png?raw=true)
+
 ## Trends Analysis:
 Employees aged 29-31 have a higher turnover rate, suggesting career exploration or dissatisfaction.
 Single employees are more likely to resign than married or divorced employees.
@@ -77,3 +83,5 @@ Deep Learning Model: ~85% Accuracy
 Proposed Next Steps:
 Integrating this model into an HR Dashboard for real-time employee retention monitoring.
 Further refining the model by including additional features such as benefits, work environment factors, etc.
+
+
